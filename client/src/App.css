@@ -1,0 +1,35 @@
+.my-icon{
+  padding-right: 11px;
+}
+
+.m-auto {
+  margin: auto !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.chat-item{
+  border-radius: 10px !important;
+  margin-bottom: 20px;
+  border-top-width: 1px !important;
+  width: 40%;
+}
+
+.left{  
+  margin-right: 50%;
+}
+
+.right{
+  margin-left: 50%;
+}
+
+.input-box{
+  width: 200px !important;
+}
