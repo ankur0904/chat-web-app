@@ -1,3 +1,7 @@
+
+
+https://github.com/ankur0904/chat-web-app/assets/98346896/fb53e536-1371-4e37-ab17-a5b38422f54c
+
 ## Setup the project locally 
 
 ### Step 1: Clone the repository
@@ -19,7 +23,7 @@ git clone <REPO_URL>
 ### Step 3: Start the server
 ```bash
     cd server
-    nodemon app.js      // nodomon required to be installed
+    nodemon app.js      // nodemon required to be installed
 ```
 
 ```
@@ -29,7 +33,3 @@ git clone <REPO_URL>
 
 ### Step 4: Open the application
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-
-Video link
