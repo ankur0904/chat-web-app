@@ -20,20 +20,24 @@ git clone <REPO_URL>
     npm install
 ```
 
-### Step 3: Start the server
+### Step 3: Start the server & client
 ```bash
     cd server
 ```
-Create a `.env` file
+
+- Create a `.env` file
 ```
 SECRET_KEY="<YOUR URI Password>"
 ```
-    nodemon app.js      // nodemon required to be installed
+
+- Start the server
+```
+nodemon app.js      // nodemon required to be installed
 ```
 
 ```
-    cd client
-    npm start
+cd client
+npm start
 ```
 
 ### Step 4: Open the application
