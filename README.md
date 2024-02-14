@@ -33,3 +33,6 @@ git clone <REPO_URL>
 
 ### Step 4: Open the application
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Architecture
+![WhatsApp Image 2024-02-14 at 08 07 55](https://github.com/ankur0904/chat-web-app/assets/98346896/3bd5cedc-e6df-4796-9bca-4503417878ca)
