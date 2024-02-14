@@ -23,6 +23,11 @@ git clone <REPO_URL>
 ### Step 3: Start the server
 ```bash
     cd server
+```
+Create a `.env` file
+```
+SECRET_KEY="<YOUR URI Password>"
+```
     nodemon app.js      // nodemon required to be installed
 ```
 
